@@ -1,0 +1,5 @@
+def areaofcircle():
+    a=int(input('Enter Radius of Circle:'))
+    b=2*3.14*a**2
+    print('Area of Circle is:',b,'square units')
+areaofcircle()
